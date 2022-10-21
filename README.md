@@ -2,7 +2,7 @@
 - 👀 I’m interested in Edge Computing with workload of IoT, 5G, AI and AR/VR
 - 🌱 I’m currently learning VR
 - 💞️ I’m looking to collaborate on enabling and innovating customer scenarios and capabilities for IoT, 5G, AI, AR/VR at edge 
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 CindyXing/CindyXing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
