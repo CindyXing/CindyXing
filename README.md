@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CindyXing
 - 👀 I’m interested in Edge Computing with workload of IoT, 5G, AI and AR/VR
-- 🌱 I’m currently learning VR
+- 🌱 I’m currently working at GKE and enabling AI/ML workload
 - 💞️ I’m looking to collaborate on enabling and innovating customer scenarios and capabilities for IoT, 5G, AI, AR/VR at edge 
 - 📫 How to reach me 
 
